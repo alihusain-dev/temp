@@ -1,4 +1,3 @@
-
 #### *what is arp?* 
 arp = address resolution protocol
 - used to find device's mac address when you already know it's ip address
