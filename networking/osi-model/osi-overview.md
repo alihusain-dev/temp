@@ -15,13 +15,13 @@
 
 ## 7 layers of the osi model
 
-7. physical
-6. data link
-5. network
-4. transport
-3. session
-2. presentation
-1. application
+physical
+data link
+network
+transport
+session
+presentation
+application
 
 ## encapsulation
 
