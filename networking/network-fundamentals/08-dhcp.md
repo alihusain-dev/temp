@@ -1,5 +1,5 @@
-#### *what is dhcp*
-dhcp = dynamic host configuration protocol
+#### *dhcp*
+dynamic host configuration protocol
 - dhcp automatically assigned ip addresses to devices
 - prevents you from having to manually configure a device
 - usually runs on your router at home
