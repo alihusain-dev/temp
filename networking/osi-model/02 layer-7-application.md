@@ -10,7 +10,7 @@
 ## examples
 
 - you access websites, email, and messaging apps here
-sending a photo to a friend:
+- sending a photo to a friend:
   - physical: phone connects to wifi
   - data link: prepares photo for sending, checks for errors
   - network: assings your friends ip address to photo so it knows where to go
