@@ -11,13 +11,13 @@
 
 - you access websites, email, and messaging apps here
 sending a photo to a friend:
-- physical: phone connects to wifi
-- data link: prepares photo for sending, checks for errors
-- network: assings your friends ip address to photo so it knows where to go
-- transport: splits photo into smaller packets and makes sure they all arrive
-- session: keeps connection open while photo is sent
-- presentation: compresses photo for quicker delivery and ensures its safety
-- application: your friend receives and opens photo in messaging app
+  - physical: phone connects to wifi
+  - data link: prepares photo for sending, checks for errors
+  - network: assings your friends ip address to photo so it knows where to go
+  - transport: splits photo into smaller packets and makes sure they all arrive
+  - session: keeps connection open while photo is sent
+  - presentation: compresses photo for quicker delivery and ensures its safety
+  - application: your friend receives and opens photo in messaging app
 
 ## key terms
 
