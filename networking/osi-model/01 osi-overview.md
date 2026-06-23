@@ -13,10 +13,9 @@
 - allows different devices to understand data sent across a network
 - breaks networking into smaller, easier-to-understand parts
 - useful for troubleshooting (can check each layer to find issue)
-        - wifi not working (physical)
-        - phone connected to network (data link)
-        - is ip address correct (network)
-
+  - wifi not working (physical)
+  - phone connected to network (data link)
+  - is ip address correct (network)
 ## 7 layers of the osi model
 
 - application 
