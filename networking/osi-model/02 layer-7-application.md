@@ -2,17 +2,22 @@
 
 ## what is the application layer?
 
-- the highest layer of the osi model
 - closest to the user
+- the layer you directly interact with
 - provides a way for users and applications to interact with network services
 - determines how applications send and receive data
 
 ## examples
 
-- web browsers
-- email clients
-- file transfer applications
-- dns
+- you access websites, email, and messaging apps here
+sending a photo to a friend:
+- physical: phone connects to wifi
+- data link: prepares photo for sending, checks for errors
+- network: assings your friends ip address to photo so it knows where to go
+- transport: splits photo into smaller packets and makes sure they all arrive
+- session: keeps connection open while photo is sent
+- presentation: compresses photo for quicker delivery and ensures its safety
+- application: your friend receives and opens photo in messaging app
 
 ## key terms
 
@@ -26,16 +31,6 @@
 - translates domain names into ip addresses
 - example:
   - google.com → 142.250.x.x
-
-## analogy
-
-like ordering food at a restaurant.
-
-- you (the user) interact with the menu
-- you place an order
-- the restaurant handles everything behind the scenes
-
-the application layer is the part you directly interact with.
 
 ## key takeaway
 
