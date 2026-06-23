@@ -23,6 +23,7 @@
 - mac addresses
 - switches
 - network interface cards (nic)
+- "making sure data is packaged properly and gets to the next stop without errors"
 
 ## key takeaway
 
